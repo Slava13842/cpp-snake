@@ -1,0 +1,15 @@
+/build/
+/bin/
+/out/
+/Debug/
+/Release/
+/x64/
+/x86/
+.vs/
+.vscode/
+.idea/
+*.obj
+*.pdb
+*.ilk
+*.exe
+*.log
