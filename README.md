@@ -42,3 +42,10 @@ cpp-snake/
 ## Notes
 - Uses `<conio.h>` and `Sleep()` from `windows.h` → targets Windows.
 - Simple single-file code; easy to extend (score persistence, walls, levels).
+
+
+## 📸 Example
+
+Example of fetching and searching articles:
+
+![News Parser CLI](SnakegameTeast.png)
